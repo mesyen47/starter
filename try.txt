@@ -10,5 +10,6 @@ after
 git merge
 git pull
 git push
-#Remote starter project
+
+#Local starter changed
 
