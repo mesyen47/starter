@@ -1,0 +1,12 @@
+pwd shows working path
+cd desktop or working folder
+git status shows status.
+Before push enter commit
+git commit -am "ı will push my folder to github folder"
+git push #file sended
+if remote and local changed it first
+git fetch
+after
+git merge
+git pull
+git push
