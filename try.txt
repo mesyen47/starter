@@ -10,3 +10,4 @@ after
 git merge
 git pull
 git push
+#Local starter changed
